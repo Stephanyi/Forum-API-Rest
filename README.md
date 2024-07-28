@@ -1,3 +1,3 @@
 # Forum
 
-use com cuidado
+Aplicação com Post, Get, Delete, etc....
